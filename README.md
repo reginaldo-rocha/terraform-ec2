@@ -28,11 +28,11 @@ Terraform → AWS Provider → EC2 (Amazon Linux)
 
 ## 📁 Estrutura do Projeto
 
-terraform-ec2-finops/
-├── provider.tf
-├── main.tf
-├── variables.tf
-└── outputs.tf
+terraform-ec2-finops/  
+├── provider.tf  
+├── main.tf  
+├── variables.tf  
+└── outputs.tf  
 
 
 
