@@ -34,6 +34,16 @@ terraform-ec2-finops/
 ├── variables.tf  
 └── outputs.tf  
 
+📊 Outputs
+
+Após a execução:
+
+Instance ID
+Public IP
+<img width="1341" height="754" alt="tela 1" src="https://github.com/user-attachments/assets/20bad858-0d1d-41e4-91b4-f658fa3460d5" />
+
+
+
 
 
 
