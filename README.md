@@ -42,6 +42,15 @@ Instance ID
 Public IP
 <img width="1341" height="754" alt="tela 1" src="https://github.com/user-attachments/assets/20bad858-0d1d-41e4-91b4-f658fa3460d5" />
 
+🏷️ Tags aplicadas  
+Project: FinOps  
+Owner: Reginaldo  
+Environment: Lab  
+CostCenter: Cloud  
+
+<img width="1352" height="682" alt="tela 2" src="https://github.com/user-attachments/assets/f9c2461d-fb88-4bf8-9f26-6f368a06770a" />
+
+
 
 
 
