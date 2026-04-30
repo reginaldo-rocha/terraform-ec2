@@ -46,6 +46,16 @@ Public IP
 
 <img width="1352" height="682" alt="tela 2" src="https://github.com/user-attachments/assets/f9c2461d-fb88-4bf8-9f26-6f368a06770a" />
 
+🎯 Objetivos do Projeto  
+Demonstrar uso do Terraform na AWS  
+Automatizar criação de infraestrutura  
+Aplicar boas práticas de tagging  
+Criar base para projetos mais avançados  
+
+👨‍💻 Autor
+
+Reginaldo Rocha
+
 
 
 
